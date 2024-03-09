@@ -11,7 +11,7 @@
 <!-- OVERVIEW -->
 
 ## Overview
-![cadastro](https://github.com/marcelopetroni/CadastroUsuario/assets/105806830/efd783cf-6d12-47a4-8cd1-3f1953fe5ccf)
+![cadastro](https://github.com/marcelopetroni/CadastroUsuario/assets/105806830/e16dbb8f-ae24-481b-a9ab-2e9939c5dd1d)
 
 - Acesse meu projeto pelo link: 
 - Projeto simples com HTML e CSS para a cadeira Programação web mobile.
