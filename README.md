@@ -11,7 +11,8 @@
 <!-- OVERVIEW -->
 
 ## Overview
-![cadastro](https://github.com/marcelopetroni/CadastroUsuario/assets/105806830/db7375c6-d13a-46fa-b07b-ce4fe6dff916)
+![cadastro](https://github.com/marcelopetroni/CadastroUsuario/assets/105806830/8595c646-1ed7-47b8-bac6-02509ea4c6ac)
+
 
 
 - Acesse meu projeto pelo link: https://cadastro-usuario-nu.vercel.app/
