@@ -11,7 +11,8 @@
 <!-- OVERVIEW -->
 
 ## Overview
-![cadastro](https://github.com/marcelopetroni/CadastroUsuario/assets/105806830/e16dbb8f-ae24-481b-a9ab-2e9939c5dd1d)
+![cadastro](https://github.com/marcelopetroni/CadastroUsuario/assets/105806830/db7375c6-d13a-46fa-b07b-ce4fe6dff916)
+
 
 - Acesse meu projeto pelo link: https://cadastro-usuario-nu.vercel.app/
 - Projeto simples com HTML e CSS para a cadeira Programação web mobile.
